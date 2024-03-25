@@ -10,3 +10,6 @@ i have 3 options:
 3. Make a new github account
    
 I would say that #4 is use google sites like a normal person but that's completely out of the question, i am banned from Google due to the extensive list of war crimes i did NOT commit
+
+edit: the github wizard has blessed me with a solution, just domains
+thank you @penguinencounter
